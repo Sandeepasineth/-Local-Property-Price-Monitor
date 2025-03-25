@@ -1,4 +1,5 @@
-echo "# Local Property Price Monitor - UK Property Market Dashboard
+
+# Local Property Price Monitor - UK Property Market Dashboard
 
 ## 📌 Project Overview
 This project delivers a comprehensive Power BI dashboard to monitor and analyze local property prices in Greater Manchester, UK. It integrates SQL databases and Power BI to transform raw property transaction data into insightful, user-friendly visualizations.
